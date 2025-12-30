@@ -1,0 +1,64 @@
+titles: Aandavar padaithea veattrien naalithu
+keywords: Aandavar padaithea veattrien naalithu, Andavar padaitha, Jebathotta Jeyageethangal,  Father Berchmans
+GUID: 7a8c1255-a97e-450c-ac43-8cc9ed56d288
+
+Verse: v0
+ஆண்டவர் படைத்த வெற்றுயின் நாளிது
+Andavar padaitha vetriyin nalidhu
+இன்று அகமகிழ்வோம் அக்களிப்போம்
+Inru agamagilvom akkalippom
+அல்லேலூயா பாடுவோம்
+Alleluya paduvom x {2}
+
+Verse: v1
+அல்லேலூயா தோல்வி இல்லை
+Alleluya tholvi illai
+அல்லேலூயா வெற்றி உண்டு
+Alleluya vettri undu x {2}-Andavar
+
+Verse: v2
+எனக்கு உதவிடும் எனது ஆண்டவர்
+Enakku udhavidum enadhu aandavar
+என் பக்கம் இருக்கிறார்
+En pakkam irukkirar x {2}
+உலக மனிதர்கள் எனக்கு எதிராக
+Ulaga manidarkal enakku ediraha
+என்ன செய்ய முடியும்
+Enna seyya mudiyum x {2}
+
+Verse: v3
+தோல்வி இல்லை எனக்கு
+Tolvi illai enakku
+வெற்றி பவனி செல்வேன்
+Vetri pavani selven x {2}-Andavar
+
+Verse: v4
+எனது அற்றலும் எனது பாடலும்
+Enadhu arralum enadu padalum
+எனது மீட்புமானார்
+Enadhu metpumanar x {2}
+நீதிமான்களின் சபைகளிலே
+Nidimankalin sabaikalile
+வெற்றி குரல் ஒலிக்கட்டும்
+Verri kural olikkaddum x {2}-Tolvi
+
+Verse: v5
+தள்ளப்பட்ட கல் கட்டிடம் தாங்கிடும்
+Tallappatta kal kattidam thankidum
+மூலைக்கல் ஆயிற்று
+Mulaikkal ayitru x {2}
+கர்த்தர் செயல் இது அதிசயம் இது
+Karthar seyal idu adisayam idu
+கைத்தட்டிப் பாடுங்களேன்
+Kaithatti padungalen x {2}
+
+Verse: v6
+என்றும் உள்ளது உமது பேரன்பு
+Enrum ulladu umadu peranbu
+என்று பறைசாற்றுவேன்
+Enru paraisatruven x {2}
+துன்ப வேளையில் நோக்கி கூப்பிட்டேன்
+Thunba velaiyil nokki kuppitten
+துணையாய் வந்தீரையா
+Tunaiyay vandiraiyya x {2}
+

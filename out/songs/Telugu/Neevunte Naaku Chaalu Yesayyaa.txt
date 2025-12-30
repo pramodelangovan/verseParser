@@ -1,0 +1,40 @@
+titles: Neevunte Naaku Chaalu Yesayyaa
+keywords: Brathuku Naava Pagilinaa
+GUID: a77e1000-1191-4fa7-b4f1-f91aa0f7f720
+
+Verse: v0
+నీవుంటే నాకు చాలు యేసయ్యా
+Neevunte Naaku Chaalu Yesayyaa
+నీవెంటే నేను ఉంటానేసయ్యా (2)
+Neevente Nenu Untaanesayyaa (2)
+
+Verse: v1
+నీ మాట చాలయ్యా నీ చూపు చాలయ్యా
+Nee Maata Chaalayyaa Nee Choopu Chaalayyaa
+నీ తోడు చాలయ్యా నీ నీడ చాలయ్యా (2)
+Nee Thodu Chaalayyaa Nee Needa Chaalayyaa (2)
+
+Verse: v2
+ఎన్ని బాధలున్ననూ ఇబ్బందులైననూ
+Enni Bhaadhalunnanoo Ibbandulainanoo
+ఎంత కష్టమొచ్చినా నిష్టూరమైననూ (2)
+Entha Kashtamochchinaa Nishtooramainanoo (2)
+
+Verse: v3
+బ్రతుకు నావ పగిలినా కడలి పాలైననూ
+Brathuku Naava Pagilinaa Kadali Paalainanoo
+అలలు ముంచి వేసినా ఆశలు అనగారినా (2)
+Alalu Munchi Vesinaa Aashalu Anagaarinaa (2)
+
+Verse: v4
+ఆస్తులన్నీ పోయినా అనాథగా మిగిలినా
+Aasthulanni Poyinaa Anaathagaa Migilinaa
+ఆప్తులే విడనాడినా ఆరోగ్యం క్షీణించినా (2)
+Aapthule Vidanaadinaa Aarogyam Ksheeninchinaa (2)
+
+Verse: v5
+నీకు ఇలలో ఏదియు లేదు అసాధ్యము
+Neeku Ilalo Ediyu Ledu Asaadhyamu
+నీదు కృపతో నాకేమియు కాదిల సమానము (2)
+Needu Krupatho Naakemiyu Kaadila Samaanamu (2)
+

@@ -1,0 +1,34 @@
+titles: Aarathanai Aarathanai Thuthi Aarathanai – ஆராதனை ஆராதனை துதி
+keywords: Aarathanai Aarathanai Thuthi Aarathanai – ஆராதனை ஆராதனை துதி,Paul
+GUID: f1456a99-7f09-42fc-ae34-1241f25c1b5c
+
+Verse: v0
+ஆராதனை ஆராதனை 
+Arathanai Arathanai 
+துதி ஆராதனை ஆராதனை
+Thuthi Arathanai Arathanai {2}
+காலையிலும் மாலையிலும்
+Kalayilum Malayilum
+ஆராதனை அப்பாவுக்கே
+Arathanai Appavukkae {2}
+
+Verse: v1
+தூய ஆவியே உமக்கு ஆராதனை
+Thooya Aviyae Umakku Arathanai
+துணையாளரே உமக்கு ஆராதனை
+Thunaiyalarae Umakku Arathanai {2}
+வான பிதாவே உமக்கு ஆராதனை
+Vana Pithavae Umakku Arathanai
+வழிகாட்டியே உமக்கு ஆராதனை
+Vazhikattiyae Umakku Arathanai {2}
+
+Verse: v2
+ஜீவ பலியே உமக்கு ஆராதனை
+Jeeva Palyiae Umakku Arathanai
+ஜீவ தண்ணீரே உமக்கு ஆராதனை
+Jeeva thannerae Umaku Arathanai
+மேகஸ்தம்பமே உமக்கு ஆராதனை
+Megasthambame Umaku Arathanai
+மேசியாவே உமக்கு ஆராதனை
+Mesiyavae Umakku Arathanai {2}
+

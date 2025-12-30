@@ -18,17 +18,26 @@ def str_to_list(value):
 def process_content(content):
     data = json.load(content)
     out = ''
-    if include_metadata:
+    if metadata_flag:
         out += "\n".join([f"{prop}: {str_to_list(value).strip()}" for prop, value in data["properties"].items()])
         out += '\n\n'
     for lines in data['lyrics']['verse']:
-        if include_versename:
+        if versename_flag:
             out += f"Verse: {lines['name']}\n"
         for line in lines['lines']:
             out += f"{line}\n"
         out += "\n"
 
     return out
+
+def detect_encoding(file_path):
+    # Placeholder for encoding detection logic
+    # For example, you can use the `chardet` or `cchardet` library to detect encoding
+    # import chardet
+    # with open(file_path, 'rb') as f:
+    #     result = chardet.detect(f.read())
+    #     return result['encoding']
+    return "utf-8"  # Default to utf-8 if no detection logic is implemented
 
 def process_files(input_folder, output_folder):
     for root, dirs, files in os.walk(input_folder):
@@ -43,10 +52,12 @@ def process_files(input_folder, output_folder):
             output_file_name = os.path.splitext(file)[0] + ".txt"
             output_file_path = os.path.join(target_dir, output_file_name)
 
-            with open(input_file_path, 'r') as infile:
-                content = infile.read()
-                processed_content = process_content(content)
-                with open(output_file_path, 'w') as outfile:
+            # Detect encoding of the input file
+            encoding = detect_encoding(input_file_path)
+
+            with open(input_file_path, 'r', encoding=encoding) as infile:
+                processed_content = process_content(infile)
+                with open(output_file_path, 'w', encoding=encoding) as outfile:
                     outfile.write(processed_content)
 
 
@@ -61,10 +72,12 @@ if __name__ == "__main__":
     metadata_flag = args.metadata
     versename_flag = args.versename
 
+    # Create the output folder if it does not exist
+    if not os.path.exists(output_path):
+        os.makedirs(output_path)
+
     if not os.path.isdir(input_path):
         print(f"Error: {input_path} is not a valid directory.")
     else:
         process_files(input_path, output_path)
         print(f"Processed files from {input_path} to {output_path}")
-
-# ...existing code...

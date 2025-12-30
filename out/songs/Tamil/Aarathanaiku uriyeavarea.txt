@@ -1,0 +1,28 @@
+titles: Aarathanaiku uriyeavarea
+keywords: aaradhanaiku uriyavare, abisheka naadhare, acharamaanavare, halleluiah
+GUID: 3b4e419e-5ce1-4feb-a2b2-e1c30e918f9f
+
+Verse: v1
+ஆராதனைக்குரியவரே
+அபிஷேக நாதரே அச்சாரமானவரே -2
+
+Verse: v2
+அல்லேலூயா பாட்டு பாடுவேன்
+ஆனந்தமாய் துதித்து பாடுவேன் -2
+
+Verse: v3
+அல்லேலூயா அல்லேலூயா
+அல்லேலூயா ஆமென் அல்லேலூயா
+
+Verse: v4
+தாவீதை போல நடனமாடுவேன்
+கோலியாத்தை முறியடிப்பேன் -2
+
+Verse: v5
+பவுலைப் போல பாட்டு பாடுவேன்
+சிறையிருப்பை ஜெயித்திடுவேன் -2
+
+Verse: v6
+சாத்தானை ஜெயித்திடுவேன்
+சாட்சியாய் வாழ்ந்திடுவேன் -2
+

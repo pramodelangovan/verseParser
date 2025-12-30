@@ -1,0 +1,39 @@
+titles: Ne Nilachu Bhoomi
+keywords: 
+GUID: e215e5cb-792d-4d96-beba-f929091b1f7a
+
+Verse: v0
+Ne Nilachu Bhoomi, kampinchi Kooli poyina
+నీ నిలచు భూమి, కాంపించి కూలిపోయినా
+Nirikshanaku Aadharam Nashinchi poyina(2)
+నిరీక్షణకు ఆధారం నశించి పోయినా (2)
+Nenu nammukunna okkaraina leka poyina
+నేను నమ్ముకున్న ఒక్కరైనా లేకపోయినా
+Nammedhanu na Yesuni maatramae(2)
+నమ్మెదను నా యేసుని మాత్రమే (2)
+
+Verse: v1
+Nammedhanu Naa Yesuni Matramae
+నమ్మెదను నా యేసుని మాత్రమే (2)
+
+Verse: v2
+Naa Maargamantha andhakaram ayipoyina
+నా మార్గమంతా అంధకారమైపోయినా
+Jeevithame anthamai maru jeevamu Le-kunna(2)
+జీవితమే అంతమై మరుజీవము లేకున్నా (2)
+Nannu oodarchuvaru okkaraina lekapoyina
+నన్ను ఓదార్చువారు ఒక్కరైనా లేకపోయినా
+Nammedhanu Naa Yesuni Matramae
+నమ్మెదను నా యేసుని మాత్రమే
+
+Verse: v3
+Parugathedhan Ne Guri yodhake
+పరుగతెదను నీ గురి యోధకే
+Vishwasamantha Na Yese
+విశ్వాసమంతా నా యేసే
+Naaku UnnavAnni Nekai Na Arpichadhanu
+నాకు ఉన్నవన్నీ నీకై నా అర్పించెదను
+Nammedhanu Naa Yesuni Matramae
+నమ్మెదను నా యేసుని మాత్రమే
+
+

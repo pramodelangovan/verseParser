@@ -1,0 +1,38 @@
+titles: Krupe Indha nele ninthevu
+keywords: 
+GUID: d835ddc7-dd38-4345-a77b-515f609d07af
+
+Verse: v0
+ಕೃಪೆ ಇಂದ ನೆಲೆ ನಿಂತೆವು
+Krupe Indha nele ninthevu
+
+Verse: v1
+ದೇವ ಕೃಪೆ ಇಂದ ನೆಲೆ ನಿಂತೆವು
+Deva krupe indha nele ninthevu
+ಕೃಪೆಯೇ ಕೃಪೆಯೇ-೪
+Krupeyee krupeyee-4
+
+Verse: v2
+ಹೆಸರಲ್ಲಿ ಕರದದ್ದು ನಿನ್ನ ಕೃಪೆಯೇ
+Hessareli karadhadhu Nina krupeye
+ಹಿರಿಯವನಾಗಿಸಿದ್ದು ನಿನ್ನ ಕೃಪೆಯೇ
+Hiriyavanaagisidhu Nina krupeye
+ಕೃಪೆಯೇ-೪
+Krupaye-4
+
+Verse: v3
+ಕಟ್ಟುಗಳ ಬಿಡಿಸಿದ್ದು ನಿನ್ನ ಕೃಪೆಯೇ
+Kattugala bidisidhu nina krupeye
+ಗಾಯಗಳ ಕಟ್ಟಿದ್ದು ನಿನ್ನ ಕೃಪೆಯೇ
+Gayagala kattidhu nina krupeye
+ಕೃಪೆಯೇ-೪
+Krupaye 4
+
+Verse: v4
+ಅದ್ಭುತವ ಮಾಡಿದ್ದು ನಿನ್ನ ಕೃಪೆಯೇ
+Adhbuthava madidhu nina krupeye
+ವರಗಳ ನೀಡಿದ್ದು ನಿನ್ನ ಕೃಪೆಯೇ
+Varagala nididhu nina krupaye
+ಕೃಪೆಯೇ
+Krupaye
+

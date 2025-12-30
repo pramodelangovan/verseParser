@@ -1,0 +1,64 @@
+titles: ಸ್ತೋತ್ರ ದಿಂದಲೋ ಸ್ತುತಿ ಹಾಡುವೆ Sthothradindale Sthuthi Haaduve
+keywords: Sthothradindale Sthuthi Haaduve
+GUID: ea915a5f-d229-4584-b784-f13b6e77b97d
+
+Verse: v0
+ಸ್ತೋತ್ರ ದಿಂದಲೋ ಸ್ತುತಿ ಹಾಡುವೆ
+Sthothradindale Sthuthi Haaduve
+
+Verse: v1
+ನನ್ನ ಯೇಸು ರಾಜನೇ
+Nanna Yesu Raajane
+
+Verse: v2
+ನನಗಾಗಿ ಮಾಡಿದ ಉಪಕಾರಕ್ಕೆ
+Nanagaagi Maadida Upakaarakke
+
+Verse: v3
+ಎಂದೆಂದೂ ನಾ ವಂದಿಸುವೆ
+Endendu Naa Vandisuve
+
+Verse: v4
+ಎಣಿಸಲಾಗದ ಆಶೀರ್ವಾದಗಳನ್ನ
+Enisalaagadha Aasheervadagala
+
+Verse: v5
+ನನಗೆ ನೀ ನೀಡಿರುವೆ
+Nanage Nee Neediruve
+
+Verse: v6
+ಯೋಗ್ಯತೆ ಇಲ್ಲದ ನನಗೆ
+Yogyathe Illada Nanage
+
+Verse: v7
+ಕೃಪೆ ನೋಡಿದ ನನ್ ಯೇಸುವೇ
+Krupe Neendidha Nan Yesuve
+
+Verse: v8
+ಸ್ತೋತ್ರ ದಿಂದಲೋ...
+Sthothradindale...
+
+Verse: v9
+ಸತ್ಯ ದೇವನೇ, ಏಕ ಪುತ್ರನೇ
+Sathya Devare, Eka Putrane
+
+Verse: v10
+ನಿನ್ನನ್ನೇ ನಾ ನಂಬಿರುವೆ
+Ninnanne Naa Nambiruve
+
+Verse: v11
+ಎಲ್ಲ ಕಾಲದಲ್ಲೂ ನಿನ್ನ
+Ella Kaaladallu Ninna
+
+Verse: v12
+ಕೃಪೆಯನ್ನೇ ವರವಾಗಿ ನೋಡೋನಗೆ
+Krupeyanne Varavaagi Needenage
+
+Verse: v13
+ಆರಾಧನೆ ಆರಾಧನೆ ನಿನಗೆ
+Aaradhane Aaradhane Nimage
+
+Verse: v14
+ಆರಾಧನೆ ಆರಾಧನೆ ನಿನಗೆ
+Aaradhane Aaradhane Nimage
+

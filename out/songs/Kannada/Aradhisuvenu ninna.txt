@@ -1,0 +1,72 @@
+titles: Aradhisuvenu ninna
+keywords: Aradhisuvenu ninna
+GUID: a5394ff8-81ab-40bb-9b4f-f8ff162eff37
+
+Verse: v0
+ಆರಾಧಿಸುವೆನು ನಿನ್ನ 
+Aradhisuvenu ninna (4)
+
+Verse: v1
+ನನ್ನನ್ನು ಉದ್ಧರಿಸುವವರು ನೀವೇ 
+Nannannu uddarisuvavaru nive
+
+Verse: v2
+ನನ್ನ ತಲೆಗೆ ಎಂದಿಗೂ ಗೌರವವು ನೀವೇ 
+Nanna talege endigu gowravavu nive 
+    ಯೇಸುವೆ ನಿನ್ನನ್ನಾರಾಧಿಸುವೆ
+  Yesuve ninnannaradhive 
+
+Verse: v3
+ಲೋಕದಲ್ಲಿ ಅಲೆಯುತ್ತಿದ್ದೆ,
+Lokadhalli Aleyutthiddhe
+ನೀನೇ ನನ್ನ ಹುಡುಕಿ ಬಂದೆ,
+Neene Nanna Huduki Bandhe
+ನಿನ್ನ ಪ್ರೀತಿ ಶ್ರೇಷ್ಠವಲ್ಲವೇ
+Ninna Preethi Shreshtavallave
+ಅವಮಾನದಿಂದ ನಾನು
+Avamaanadhindha Naanu
+ಬೀಳದಂತೆ ಕಾಯುತ್ತಿರುವೆ
+Beeḷadanthe Kaayuththiruve
+ನಿನ್ನ ಕೃಪೆ ಶ್ರೇಷ್ಠವಲ್ಲವೇ
+Ninna Krupe Shreshtavallave
+
+Verse: v4
+ನನ್ನ ಜೀವಮಾನವೆಲ್ಲ, 
+Nanna Jeevamaanavella, 
+ನಿನ್ನ ಸ್ತುತಿಸುತ್ತಲಿರುವೆ
+Ninna Stuthisuththale Iruve
+ನಿನ್ನ ನಾಮ ಮೇಲೆತ್ತುವೆ
+Nin Naama Maeleththuve
+
+Verse: v5
+ನನ್ನ ಉಸಿರಿರುವರೆಗೂ, 
+Nanna Usirirovaregoo, 
+ನಿನ್ನ ಸ್ತುತಿಸುತ್ತಲಿರುವೆ
+Ninna Stuthisuththale Iruve
+ನಿನ್ನ ನಾಮ ಮೇಲೆತ್ತುವೆ
+Nin Naama Maeleththuve
+ನನ್ನನ್ನುದ್ಧರಿಸುವವರು ನೀವೇ
+Nannannu Uddharisuvavaru Neeve
+
+Verse: v6
+ನೊಂದು ಒಡೆದ ಹೃದಯವನ್ನು
+Nondhu Hodha Hrudayavannu
+ಪ್ರತಿ ದಿನವೂ ಕಟ್ಟುತ್ತಿರುವೆ
+Prathi Dhinavu Kattuththiruve
+ಒಳ್ಳೆಯ ಸಮಾರ್ಯನು ನೀನೇ
+Olleya Samaryanu Neene
+ಹುಸುಬಿನಲ್ಲಿ ನಿಂತ ನನ್ನ
+Husubinalli Nintha Nanna
+ಬಂಡೆ ಮೇಲೆ ನಿಲ್ಲಿಸಿರುವೇ
+Bande Mele Nillisiruve
+ನನ್ನಯ ರಕ್ಷಕನು ನೀನೇ 
+Nannaya Rakshakanu Neene
+
+Verse: v7
+ನನ್ನ ಜೀವಮಾನವೆಲ್ಲ, 
+Nanna Jeevamaanavella, 
+ನಿನ್ನ ಸ್ತುತಿಸುತ್ತಲಿರುವೆ
+Ninna Stuthisuththale Iruve
+ನಿನ್ನ ನಾಮ ಮೇಲೆತ್ತುವೆ
+Nin Naama Maeleththuve
+

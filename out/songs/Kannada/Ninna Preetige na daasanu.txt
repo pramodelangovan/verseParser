@@ -1,0 +1,34 @@
+titles: Ninna Preetige na daasanu
+keywords: 
+GUID: 218990b5-6452-4bb7-8054-928b521af156
+
+Verse: v0
+ನಿನ್ನ ಪ್ರೀತಿಗೆ ನಾ ದಾಸನು
+Ninna preetige na daasanu
+ಪ್ರೀತಿ ಇಲ್ಲದಿದ್ದರೆ ನಾ ಬರಡು -2
+ preeti illadiddare na baradu -2
+
+Verse: v1
+ಪ್ರೀತಿಯ ಪ್ರೀತಿಯ
+preetiye preetiye 
+ನನ್ನ ಸೆಳೆದುಕೊಂಡ ಪ್ರೀತಿಯೆ -2
+nanna seledukonda preetiye -2
+
+Verse: v2
+ಸ್ಥಿತಿ ಬದಲಾಗಿ ನಾ ಅಲುಗಾಡಿ -2
+Sthiti badalaagi na alugaadi -2
+ ಬಿದ್ದ ಸಮಯದಲ್ಲಿ ನನ್ನ ಎಬ್ಬಿಸಿದ ಪ್ರೀತಿಯು
+biddha samayadalli nanna ebbisida preetiyu
+
+Verse: v3
+ಸ್ನೇಹಿತರೂ ತ್ಯಜಿಸಿ ಬಂಧುಗಳು ಮರೆತು -2
+Snehitarutyajisi bandhugalu maretu -2
+ಬಿಟ್ಟೋಗಿ ದಿನವೆಲ್ಲಾ ನನ್ನ ಬಿಡದ ಪ್ರೀತಿಯು
+bitogi dinavella nanna bidada preetiyu
+
+Verse: v4
+ಏನ್ ಕಳೆದುಕೊಂಡರೂ ನಿನ್ ಕಳೆದುಕೊಳ್ಳಲಾರೆ -2
+En kaledukondaru nin kaledukollalaare -2
+ಸೇವೆಯೆ ಕೊಟ್ಟವನೆ ನಾನು ನಿನಗಾಗಿ ಜೀವಿಸುವೆ
+seveye kottavane naanu ninagaagi jeevisuve
+

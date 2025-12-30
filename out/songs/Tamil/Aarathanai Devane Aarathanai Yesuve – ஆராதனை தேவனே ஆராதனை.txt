@@ -1,0 +1,60 @@
+titles: Aarathanai Devane Aarathanai Yesuve – ஆராதனை தேவனே ஆராதனை
+keywords: Aarathanai Devane Aarathanai Yesuve – ஆராதனை தேவனே ஆராதனை,Paul
+GUID: 5bb0bc29-bc48-42ab-a474-0855f9936037
+
+Verse: v0
+ஆராதனை தேவனே 
+Aradhanai devane
+ஆராதனை இயேசுவே
+Aradhanai yesuvae
+ஆராதனை ஆவியே 
+Aradhanai aviye
+ஆராதனை ஆராதனை 
+Aradhanai Aradhanai-{2}
+
+Verse: v1
+நித்தியரே ஆராதனை 
+Nittiyare Aradhanai 
+சத்தியரே ஆராதனை 
+Sattiyare Aradhanai-{2}
+நித்தமும் காக்கும் தேவனே
+Nittamum kakkum devane
+சத்தியம் பேசும் ராஜனே
+Sattiyam pesum rajane
+ஆராதனை ஆராதனை  
+Aradhanai Aradhanai-{2}
+
+Verse: v2
+உன்னதரே ஆராதனை 
+Unnatare Aradhanai 
+உத்தமரே ஆராதனை 
+Uttamare Aradhanai-{2}
+உண்மையான தேவனே
+Unmaiyana dhevane 
+உயிருள்ள ராஜனே
+Uyirulla rajane
+ஆராதனை ஆராதனை 
+Aradhanai Aradhanai-{2}
+
+Verse: v3
+மதுரமே ஆராதனை 
+Madhurame Aradhanai 
+மகத்துவமே ஆராதனை
+Makattuvame Aradhanai-{2}
+மகிமையான தேவனே 
+Makimaiyana devane
+மாசில்லாத ராஜனே
+Macillata rajane
+ஆராதனை ஆராதனை
+Aradhanai Aradhanai-{2}
+
+Verse: v4
+புதுமையே ஆராதனை
+Putumaiye Aradhanai
+புண்ணியமே ஆராதனை 
+punniyame Aradhanai-{2}
+பூரணமான தேவனே பூலோக ராஜனே
+puranamana devane puloka rajane
+ஆராதனை ஆராதனை
+Aradhanai Aradhanai-{2}
+
