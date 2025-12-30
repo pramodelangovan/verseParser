@@ -1,4 +1,6 @@
 appdata
 out
 build
+dist
+.vscode
 __pycache__

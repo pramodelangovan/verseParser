@@ -97,6 +97,7 @@ def main():
 
     # Step 4: Build executable with PyInstaller
     pyinstaller_exe = get_pyinstaller_executable()
+    # .venv\Scripts\pyinstaller --onefile --windowed --name VerseParser gui.py
     build_command = (
         f'{pyinstaller_exe} --onefile --windowed --name VerseParser '
         '--distpath ./dist --buildpath ./build gui.py'
