@@ -1,8 +1,8 @@
 import argparse
-import os
-import shutil
 import json
+import os
 
+import chardet
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Process input and output paths.")
@@ -31,13 +31,13 @@ def process_content(content):
     return out
 
 def detect_encoding(file_path):
-    # Placeholder for encoding detection logic
-    # For example, you can use the `chardet` or `cchardet` library to detect encoding
-    # import chardet
-    # with open(file_path, 'rb') as f:
-    #     result = chardet.detect(f.read())
-    #     return result['encoding']
-    return "utf-8"  # Default to utf-8 if no detection logic is implemented
+    try:
+        with open(file_path, 'rb') as f:
+            result = chardet.detect(f.read())
+            return result['encoding']
+    except Exception as e:
+        print(f"Error detecting encoding: {e}")
+    return "utf-8"
 
 def process_files(input_folder, output_folder):
     for root, dirs, files in os.walk(input_folder):

@@ -1,2 +1,4 @@
 appdata
 out
+build
+__pycache__
