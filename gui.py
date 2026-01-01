@@ -4,11 +4,34 @@ import os
 import sys
 
 from PyQt6.QtCore import Qt
+
+def is_metadata_file(filename):
+    """Filter out macOS and Windows metadata files"""
+    metadata_patterns = {
+        '.DS_Store',
+        '.TemporaryItems',
+        '.Spotlight-V100',
+        '.Trashes',
+        '.AppleDouble',
+        '.AppleDB',
+        'Thumbs.db'
+    }
+    # Check if filename matches metadata patterns
+    if filename in metadata_patterns:
+        return True
+    # Check for ._* resource fork files
+    if filename.startswith('._'):
+        return True
+    return False
+
+def is_json_file(filename):
+    """Check if file is a JSON file"""
+    return filename.lower().endswith('.json')
+
 from PyQt6.QtWidgets import (
     QApplication, QCheckBox, QFileDialog, QHBoxLayout, QLabel, QLineEdit,
     QMainWindow, QMessageBox, QPushButton, QVBoxLayout, QWidget
 )
-
 
 def detect_encoding(file_path):
     """Detect the encoding of a file"""
@@ -19,7 +42,6 @@ def detect_encoding(file_path):
     except Exception as e:
         print(f"Error detecting encoding: {e}")
     return "utf-8"
-
 
 class VerseParserGUI(QMainWindow):
     def __init__(self):
@@ -168,6 +190,10 @@ class VerseParserGUI(QMainWindow):
                 os.makedirs(target_dir, exist_ok=True)
 
                 for file in files:
+                    # Skip metadata files and non-JSON files
+                    if is_metadata_file(file) or not is_json_file(file):
+                        continue
+
                     input_file_path = os.path.join(root, file)
                     # Replace file extension with .txt
                     output_file_name = os.path.splitext(file)[0] + ".txt"

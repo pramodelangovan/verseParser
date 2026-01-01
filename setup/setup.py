@@ -99,8 +99,7 @@ def main():
     pyinstaller_exe = get_pyinstaller_executable()
     # .venv\Scripts\pyinstaller --onefile --windowed --name VerseParser gui.py
     build_command = (
-        f'{pyinstaller_exe} --onefile --windowed --name VerseParser '
-        '--distpath ./dist --buildpath ./build gui.py'
+        f'{pyinstaller_exe} --onefile --windowed --name VerseParser --distpath ./dist --workpath ./build gui.py'
     )
     if not run_command(build_command, "Building executable with PyInstaller"):
         return False

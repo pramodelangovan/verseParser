@@ -4,6 +4,29 @@ import os
 
 import chardet
 
+def is_metadata_file(filename):
+    """Filter out macOS and Windows metadata files"""
+    metadata_patterns = {
+        '.DS_Store',
+        '.TemporaryItems',
+        '.Spotlight-V100',
+        '.Trashes',
+        '.AppleDouble',
+        '.AppleDB',
+        'Thumbs.db'
+    }
+    # Check if filename matches metadata patterns
+    if filename in metadata_patterns:
+        return True
+    # Check for ._* resource fork files
+    if filename.startswith('._'):
+        return True
+    return False
+
+def is_json_file(filename):
+    """Check if file is a JSON file"""
+    return filename.lower().endswith('.json')
+
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Process input and output paths.")
     parser.add_argument("-i", "--input", type=str, required=True, help="Path to the input file")
@@ -47,6 +70,10 @@ def process_files(input_folder, output_folder):
         os.makedirs(target_dir, exist_ok=True)
 
         for file in files:
+            # Skip metadata files and non-JSON files
+            if is_metadata_file(file) or not is_json_file(file):
+                continue
+
             input_file_path = os.path.join(root, file)
             # Replace the file extension with .txt
             output_file_name = os.path.splitext(file)[0] + ".txt"
