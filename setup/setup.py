@@ -2,6 +2,11 @@
 """
 Setup script for Verse Parser project.
 Creates virtual environment, installs dependencies, and builds the executable.
+
+Usage:
+    python setup.py              # Run both setup and build
+    python setup.py setup        # Only setup (venv + dependencies)
+    python setup.py build        # Only build (PyInstaller)
 """
 
 import os
@@ -69,15 +74,11 @@ def get_pyinstaller_executable():
     return str(pyinstaller_exe)
 
 
-def main():
-    """Main setup function"""
+def setup_environment():
+    """Setup virtual environment and install dependencies"""
     print("\n" + "="*60)
-    print("  VERSE PARSER - SETUP SCRIPT")
+    print("  SETUP - ENVIRONMENT & DEPENDENCIES")
     print("="*60)
-
-    # Navigate to parent directory (project root)
-    project_root = Path(__file__).parent.parent
-    os.chdir(project_root)
 
     # Step 1: Create virtual environment
     if not Path(".venv").exists():
@@ -95,18 +96,35 @@ def main():
     if not run_command(f"{pip_exe} install -r requirements.txt", "Installing requirements"):
         return False
 
-    # Step 4: Build executable with PyInstaller
+    print("\n" + "="*60)
+    print("  ✓ SETUP COMPLETED SUCCESSFULLY!")
+    print("="*60)
+    return True
+
+
+def build_executable():
+    """Build executable with PyInstaller"""
+    print("\n" + "="*60)
+    print("  BUILD - EXECUTABLE")
+    print("="*60)
+
+    # Check if venv exists
+    if not Path(".venv").exists():
+        print("\n❌ Error: Virtual environment not found!")
+        print("Please run 'python setup.py setup' first to create the environment.")
+        return False
+
+    # Build executable with PyInstaller
     pyinstaller_exe = get_pyinstaller_executable()
-    # .venv\Scripts\pyinstaller --onefile --windowed --name VerseParser gui.py
     build_command = (
-        f'{pyinstaller_exe} --onefile --windowed --name VerseParser --distpath ./dist --workpath ./build gui.py'
+        f'{pyinstaller_exe} --onefile --windowed --name VerseParser --distpath ./dist --workpath ./build --add-data "ui_main.ui;." gui.py'
     )
     if not run_command(build_command, "Building executable with PyInstaller"):
         return False
 
     # Success message
     print("\n" + "="*60)
-    print("  ✓ SETUP COMPLETED SUCCESSFULLY!")
+    print("  ✓ BUILD COMPLETED SUCCESSFULLY!")
     print("="*60)
     print("\nThe executable is located at: dist/VerseParser.exe")
     print("You can now run the application using the generated .exe file")
@@ -115,6 +133,42 @@ def main():
     return True
 
 
+def main():
+    """Main setup function"""
+    # Navigate to parent directory (project root)
+    project_root = Path(__file__).parent.parent
+    os.chdir(project_root)
+
+    # Parse command line arguments
+    if len(sys.argv) > 1:
+        option = sys.argv[1].lower()
+        if option == "setup":
+            return setup_environment()
+        elif option == "build":
+            return build_executable()
+        else:
+            print(f"\n❌ Unknown option: '{option}'")
+            print("\nUsage:")
+            print("  python setup.py              # Run both setup and build")
+            print("  python setup.py setup        # Only setup (venv + dependencies)")
+            print("  python setup.py build        # Only build (PyInstaller)")
+            return False
+    else:
+        # No option provided - run both setup and build
+        print("\n" + "="*60)
+        print("  VERSE PARSER - COMPLETE SETUP & BUILD")
+        print("="*60)
+
+        if not setup_environment():
+            return False
+
+        if not build_executable():
+            return False
+
+        return True
+
+
 if __name__ == "__main__":
     success = main()
     sys.exit(0 if success else 1)
+
